@@ -1,0 +1,17 @@
+```json
+
+{
+
+  "invoice_number": "INV-2025-003",
+
+  "vendor": "Contoso Retail",
+
+  "total": "£2,125.99",
+
+  "currency": "£",
+
+  "date": "18 Feb 2025"
+
+}
+
+```

@@ -1,0 +1,15 @@
+ ```json
+
+{
+
+  "invoice_number": "INV-2025-001",
+
+  "vendor": "ABC Supplies Ltd",
+
+  "total": "£1,240.00",
+
+  "date": "10 Feb 2025"
+
+}
+
+```

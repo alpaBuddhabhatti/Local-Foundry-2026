@@ -1,0 +1,5 @@
+Invoice Number: INV-2025-002
+Vendor: Northwind Traders
+Total: £845.50
+Date: 14 Feb 2025
+VAT: £140.92

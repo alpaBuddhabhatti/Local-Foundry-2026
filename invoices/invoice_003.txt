@@ -1,0 +1,5 @@
+Invoice No: INV-2025-003
+Supplier: Contoso Retail
+Grand Total: £2,125.99
+Invoice Date: 18 Feb 2025
+Tax: £354.33

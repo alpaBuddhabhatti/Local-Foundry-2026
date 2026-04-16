@@ -1,0 +1,10 @@
+Invoice Dataset Analysis
+==============================
+Total number of invoices: 3
+Total invoice amount: £4,211.49
+Latest invoice date: 2025-02-18
+
+Invoices by vendor:
+- ABC Supplies Ltd: 1 invoices, £1,240.00
+- Contoso Retail: 1 invoices, £2,125.99
+- Northwind Traders: 1 invoices, £845.50

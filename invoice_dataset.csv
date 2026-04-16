@@ -1,0 +1,4 @@
+_source_file,invoice_number,vendor,total,currency,date
+invoice_001.json,INV-2025-001,ABC Supplies Ltd,"£1,240.00",GBP,10 Feb 2025
+invoice_002.json,INV-2025-002,Northwind Traders,£845.50,GBP,14 Feb 2025
+invoice_003.json,INV-2025-003,Contoso Retail,"£2,125.99",£,18 Feb 2025

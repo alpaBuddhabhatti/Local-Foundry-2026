@@ -1,0 +1,4 @@
+Invoice Number: INV-2025-001
+Vendor: ABC Supplies Ltd
+Total: £1,240.00
+Date: 10 Feb 2025
