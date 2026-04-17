@@ -1,20 +1,7 @@
-# Foundry Local Lab 4 – Batch Invoice Processing
 
 ## What this exercise does
 
 This lab processes multiple invoice text files from the `invoices` folder using a local Phi model with Microsoft Foundry Local.
-
-Flow:
-
-invoices/*.txt
-↓
-Foundry Local Phi model
-↓
-JSON per invoice
-↓
-output folder
-↓
-combined_results.json
 
 ## Files included
 
