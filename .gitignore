@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated/Output files
+extracted_invoice.json
+invoice_dataset.csv
+invoice_dataset.json
+invoice_summary.txt
+output/combined_results.json
+output/invoice_*.json
+
+# Old/Deprecated files (to be ignored if they appear)
+analyze_invoice_dataset.py
+app.py
+app_1.py
+build_invoice_dataset._1.py
+convert_results_to_csv.py
+invoice_batch_pipeline.py
+invoice_pipeline1.py
+
+# Documentation
+Commands_From_Terminal.docx
+Terminal_Command_Summary.docx
